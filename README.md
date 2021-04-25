@@ -4,7 +4,7 @@
 
 ## Install
 
-[Chrome Web Store](https://chrome.google.com/webstore/detail/clone-with-vscode/ocicohlgdalnokmlkcfiomonhpomfame)
+Drag and drop src into chrome://extensions/
 
 ## Intro
 
@@ -12,18 +12,10 @@ Add a button that click will open Visual Studio Code and clone the repository.
 
 Support GitHub / Gitee / GitLab.
 
-
 ## Preview
 
 ![](docs/preview.png)
 
-![](docs/s1.png)
-
-## Next
-
-- [ ] open file
-- [ ] open Zip
-
-
 ## License
-MIT © [zenghongtu](https://github.com/zenghongtu)
+
+MIT © [ayce45](https://github.com/ayce45)

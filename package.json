@@ -2,7 +2,7 @@
   "name": "clone-with-vscode",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/zenghongtu/clone-with-vscode.git",
-  "author": "jasonzeng <jason.zeng@ximalaya.com>",
+  "repository": "https://github.com/ayce45/clone-with-vscode.git",
+  "author": "ayce45 <evan.j@hotmail.fr>",
   "license": "MIT"
 }
